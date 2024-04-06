@@ -1,0 +1,10 @@
+#fikaPanel {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    flex-basis: 0;
+    margin: 5px;
+    background-size: cover; 
+    background-position: center; 
+    background-image: url(../../img/macaronPile.png);
+}

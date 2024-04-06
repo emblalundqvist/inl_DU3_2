@@ -1,0 +1,9 @@
+#controlPanel {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex-grow: 1;
+    
+    margin: 5px;
+    max-width: 300px;
+}

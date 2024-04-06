@@ -1,0 +1,11 @@
+#cafePanel {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    flex-basis: 0;
+    margin: 5px;
+    background-image: url(../../img/apaGul.png);
+    background-size: cover; /* Anpassa storleken efter fönstret */
+    background-position: center; /
+}
+

@@ -1,0 +1,37 @@
+#fikaListingContainer {
+    margin: 5px;
+    margin-top: 0;
+    font-family: helvetica;
+    font-size: 15px;
+    color: rgb(226, 226, 226);
+    text-shadow: 1px black;
+}
+
+
+.listing .notFavourite {
+    color: rgb(150, 150, 150);
+}
+
+.listing .isFavourite {
+    color: rgb(248, 23, 83);
+}
+
+#fikaPanel .listing .isFavourite {
+    color: rgb(255, 187, 0);
+}
+
+.listing:hover .isFavourite{
+    cursor: pointer;
+}
+
+.listing:hover .notFavourite{
+    cursor: pointer;
+}
+
+#trash {
+    cursor: pointer;
+}
+
+
+
+
